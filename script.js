@@ -1,0 +1,1 @@
+document.querySelector("#block-podderzhkasaytovpodderzhkaotdrupalcoder > div > div.advantages.with-expertise")
